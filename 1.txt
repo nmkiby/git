@@ -4,3 +4,4 @@ Git is free software.
 Git is distributed under the GPL.
 Creating a new branch: git checkout -b dev;
 git merge <name>
+new dev
